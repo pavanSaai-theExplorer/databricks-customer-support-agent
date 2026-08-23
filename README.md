@@ -80,6 +80,7 @@ This project uses a dynamic workflow:
 
 ## 🏗️ Architecture
 
+![Architecture](Results/Agentic_AI_Architecture.png)
 
 ---
 
